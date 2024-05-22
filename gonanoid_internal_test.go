@@ -1,4 +1,4 @@
-package gonanoid
+package nanoid
 
 import (
 	"testing"

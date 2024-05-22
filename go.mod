@@ -1,6 +1,6 @@
 go 1.20
 
-module github.com/matoous/go-nanoid/v2
+module github.com/uncle-gua/nanoid
 
 require github.com/stretchr/testify v1.9.0
 
